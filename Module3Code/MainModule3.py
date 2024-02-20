@@ -60,3 +60,4 @@ if __name__ == '__main__':
         print_all_race_outcomes(podium_list, racer_list, podium_size, race_count)
     else:
         print("Thanks for participating!")
+        print("hi")
